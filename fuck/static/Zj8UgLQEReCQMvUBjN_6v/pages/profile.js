@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["d5d0"],{"W+IF":function(n,o){},u1GD:function(n,o,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/profile",function(){var n=w("W+IF");return{page:n.default||n}}])}},[["u1GD","5d41"]]]);

@@ -1,0 +1,33 @@
+App 1:
+
+Working Title - Follow me!
+
+Type of XR and Target Platform - AR. iOS and Android.
+
+Elevator Pitch - An AR app that the user would download at the doors of a store and when opened it'd display arrows and signs for the user to follow
+across the store showign the best prices or whatever he/she is looking for. Also, as they walk some things might appear so the user gets to discover new products.
+
+Visual Reference - Attached some images of my home as if it was a store where you can see the arrows taking you to a super price!
+
+
+App 2:
+
+Working Title - Master bender.
+
+Type of XR and Target Platform - VR - (Google's Daydream / cardboard and similars) or AR.
+
+Elevator Pitch - Always wanted to bend the elements at will and engage in epic battles with friends and enemies? Now you can! Pick and element - earth, fire
+water or air - and become a master bender (If Nickelodean likes the idea, obviously an Avatar themed app!)
+
+Visual Reference - None, I think it's self-explanatory
+
+App 3:
+
+Working Title - Augmented Card
+
+Type of XR and Target Platform - AR. iOS and Android.
+
+Elevator Pitch - An app that would generate a mini AR presentation from a presentation card, so the card itself could contain a QR for download and
+instructions so the user (the one that recieves the card) would be able to enjoy and be impressed by a futuristic business card or pamflet!
+
+Visual Reference - Imagine the pizza pamflet had a QR and the instructions :)

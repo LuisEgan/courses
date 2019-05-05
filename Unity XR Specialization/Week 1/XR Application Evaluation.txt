@@ -1,0 +1,13 @@
+Application name and platform - BigBangAR
+
+Elevator Pitch - Thrilling journey through time from the beginnings of our universe to our days
+
+Target Audience - Everyone who wants to experience an educational and fun travel.
+
+XR Implementation - Handheld AR app. It is almost VR because, although it's not used with some lenses, there is almost no use of the real world, just your hand once, and you need to move the device in order to follow some of the story and be able to look around and admire the space.
+
+Supporting Technologies - GPS. When you arrive to the present time and are starring at the earth, it shows your location (pretty cool!). Camera. You get to take a "start selfie".
+
+Application Strengths - It's really inmersive, between the audio and the animations you get sucked in in the experience (as I said, almost VR!). The storytelling is very smooth and soothing and keeps you interested to keep on paying atenttion.
+
+Areas for Improvement - Something that happened the second time I ran it, it seemed to lose the center and had to wait for it to recalibrate after some time, also, the app is kind of one time experience, you can tap on the screen to reveal some stuff but overall perhaps more interactivity would make it a more durable app.

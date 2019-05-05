@@ -1,0 +1,41 @@
+Project concept
+
+Visual Reference* Attached some images of my home as if it was a store where you can see the arrows taking you to a super price!
+
+Working Title - Follow me!
+
+Type of XR and Target Platform - AR. iOS and Android.
+
+Elevator Pitch - An AR app that the user would download at the doors of a store and when opened it'd display arrows and signs for the user to follow
+across the store showign the best prices or whatever he/she is looking for. Also, as they walk some things might appear so the user gets to discover new products.
+
+Product brief
+
+Target Audience - It can be divided into two target audiences:
+    Stores: this type of user will generate the path and interactions they wish their customers to experience.
+    Customers: this type of user will actually use the app. They will follow the path set by the Store and experience all the visual effects added to their visit and be amazed and lured
+        into the best offers.
+
+    The target market would be Marketing and publicity.
+
+Who is It Not For? - The app would welcome any type of user, so no restriction by age, gender or ethnicity. The filter would in the industry type since it'd be only for marketing, at least at first, since
+    the model could be used for games, attractions, trips, education, etc.
+
+Market Sizing and Sales Channels (Optional) - It would depend on the store implementing it, the size is directly proportional to the amount of customers, so, for example,
+    let's imagine Wallmart wants to use it, it'd be huge! And the best way would to deliver the app would be right there on the store using a QR code for an easy app download and by more
+    traditional advertisement like social media with a link and invitation to try it out (make the clients come!);
+
+XR Implementation - The app would be a handheld AR one, but the store could lend wearable devices as a premium feature so the customers could live a more immerse  experience, so it could attract even more
+    people and perhaps even promote new wearable lenses. (Image Samsung promoting the new Gear VR in a Walmart).
+    Because the aim of the app is for the user to go around the store, AR helps by guiding them adding something to track on top of what the user already sees, so they are aware of their surroundings.
+
+Supporting Technologies - GPS, to track the users location as they move through the store and haptic feedback so the user knows their on the right path.
+
+Key Features - 
+    1. It helps to get to the best offers whilst visiting the store.
+    2. There's an added value to walking around, if there are animated features one can be lured into what one's looking for.
+    3. It enhances what's already there so it's more clear (where to find X or prices) and it saves time.
+    4. It's more fun to visit a place where multiple things appear (as long as those aren't ads or something ugly or scary which would depend on the theme).
+    5. A new way of getting to promotions and information about them, if I can see why it works instead of beign told I am more certain to invest in it.
+    6. By gamifying a common visit to a store, I'll certainly prefer visit that one than another which offers the same type of experience as always.
+    7. Apart from the guided visit, there could be challenges and prizes which make me go to the store as much as possible.
